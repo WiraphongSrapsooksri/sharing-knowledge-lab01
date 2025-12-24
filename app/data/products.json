@@ -1,0 +1,212 @@
+[
+  {
+    "id": "prod-001",
+    "name": "MacBook Pro 16\" M3 Max",
+    "description": "High-performance laptop with M3 Max chip, 36GB RAM, 1TB SSD. Perfect for developers and creative professionals.",
+    "price": 20000.99,
+    "stock": 45,
+    "category": "Electronics",
+    "created_at": "2024-01-10T09:00:00",
+    "updated_at": "2025-12-24T11:32:17.921429"
+  },
+  {
+    "id": "prod-002",
+    "name": "iPhone 15 Pro Max 256GB",
+    "description": "Latest flagship iPhone with titanium design, A17 Pro chip, and advanced camera system.",
+    "price": 48900.0,
+    "stock": 25,
+    "category": "Electronics",
+    "created_at": "2024-01-10T09:00:00",
+    "updated_at": "2024-12-18T10:00:00"
+  },
+  {
+    "id": "prod-003",
+    "name": "iPad Pro 12.9\" M2",
+    "description": "Professional tablet with M2 chip, Liquid Retina XDR display, supports Apple Pencil.",
+    "price": 42900.0,
+    "stock": 15,
+    "category": "Electronics",
+    "created_at": "2024-01-10T09:00:00",
+    "updated_at": null
+  },
+  {
+    "id": "prod-004",
+    "name": "AirPods Pro (2nd generation)",
+    "description": "Premium wireless earbuds with active noise cancellation and spatial audio.",
+    "price": 8990.0,
+    "stock": 50,
+    "category": "Electronics",
+    "created_at": "2024-01-10T09:00:00",
+    "updated_at": "2024-12-15T16:45:00"
+  },
+  {
+    "id": "prod-005",
+    "name": "Apple Watch Series 9 GPS",
+    "description": "Advanced smartwatch with health monitoring, fitness tracking, and always-on display.",
+    "price": 13900.0,
+    "stock": 30,
+    "category": "Electronics",
+    "created_at": "2024-01-10T09:00:00",
+    "updated_at": null
+  },
+  {
+    "id": "prod-006",
+    "name": "Sony WH-1000XM5",
+    "description": "Industry-leading noise canceling wireless headphones with exceptional sound quality.",
+    "price": 13990.0,
+    "stock": 20,
+    "category": "Electronics",
+    "created_at": "2024-02-01T10:30:00",
+    "updated_at": "2024-12-10T11:20:00"
+  },
+  {
+    "id": "prod-007",
+    "name": "Samsung Galaxy S24 Ultra",
+    "description": "Premium Android smartphone with S Pen, 200MP camera, and AI features.",
+    "price": 44900.0,
+    "stock": 18,
+    "category": "Electronics",
+    "created_at": "2024-02-15T08:00:00",
+    "updated_at": null
+  },
+  {
+    "id": "prod-008",
+    "name": "Dell XPS 15",
+    "description": "Powerful Windows laptop with Intel i9, 32GB RAM, NVIDIA RTX 4060.",
+    "price": 85900.0,
+    "stock": 10,
+    "category": "Electronics",
+    "created_at": "2024-02-20T14:00:00",
+    "updated_at": "2024-12-05T09:15:00"
+  },
+  {
+    "id": "prod-009",
+    "name": "Nike Air Max 270",
+    "description": "Stylish running shoes with Max Air cushioning for all-day comfort.",
+    "price": 5490.0,
+    "stock": 45,
+    "category": "Fashion",
+    "created_at": "2024-03-01T11:00:00",
+    "updated_at": "2024-12-01T13:30:00"
+  },
+  {
+    "id": "prod-010",
+    "name": "Adidas Ultraboost 23",
+    "description": "Premium running shoes with responsive Boost cushioning.",
+    "price": 6990.0,
+    "stock": 35,
+    "category": "Fashion",
+    "created_at": "2024-03-05T09:30:00",
+    "updated_at": null
+  },
+  {
+    "id": "prod-011",
+    "name": "Levi's 501 Original Jeans",
+    "description": "Classic straight-fit jeans, original since 1873.",
+    "price": 2990.0,
+    "stock": 60,
+    "category": "Fashion",
+    "created_at": "2024-03-10T10:00:00",
+    "updated_at": "2024-11-28T15:00:00"
+  },
+  {
+    "id": "prod-012",
+    "name": "The North Face Jacket",
+    "description": "Waterproof outdoor jacket perfect for hiking and camping.",
+    "price": 8900.0,
+    "stock": 28,
+    "category": "Fashion",
+    "created_at": "2024-03-15T14:20:00",
+    "updated_at": null
+  },
+  {
+    "id": "prod-013",
+    "name": "Ergonomic Office Chair",
+    "description": "Premium mesh office chair with lumbar support and adjustable features.",
+    "price": 12900.0,
+    "stock": 15,
+    "category": "Furniture",
+    "created_at": "2024-04-01T08:45:00",
+    "updated_at": "2024-12-12T10:30:00"
+  },
+  {
+    "id": "prod-014",
+    "name": "Standing Desk Electric",
+    "description": "Height-adjustable standing desk with memory presets and cable management.",
+    "price": 18900.0,
+    "stock": 12,
+    "category": "Furniture",
+    "created_at": "2024-04-05T11:00:00",
+    "updated_at": null
+  },
+  {
+    "id": "prod-015",
+    "name": "Bookshelf Modern Design",
+    "description": "5-tier wooden bookshelf with contemporary design.",
+    "price": 4990.0,
+    "stock": 22,
+    "category": "Furniture",
+    "created_at": "2024-04-10T13:30:00",
+    "updated_at": "2024-11-20T16:00:00"
+  },
+  {
+    "id": "prod-016",
+    "name": "Gaming Chair RGB",
+    "description": "Professional gaming chair with RGB lighting and 4D armrests.",
+    "price": 15900.0,
+    "stock": 18,
+    "category": "Furniture",
+    "created_at": "2024-04-15T09:15:00",
+    "updated_at": null
+  },
+  {
+    "id": "prod-017",
+    "name": "Updated Product Name",
+    "description": "Waterproof e-reader with 6.8\" display and adjustable warm light.",
+    "price": 50000.99,
+    "stock": 45,
+    "category": "Electronics",
+    "created_at": "2024-05-01T10:00:00",
+    "updated_at": "2025-12-24T11:47:23.691438"
+  },
+  {
+    "id": "prod-018",
+    "name": "Mechanical Keyboard RGB",
+    "description": "Gaming mechanical keyboard with hot-swappable switches and RGB backlighting.",
+    "price": 3990.0,
+    "stock": 32,
+    "category": "Electronics",
+    "created_at": "2024-05-10T11:30:00",
+    "updated_at": null
+  },
+  {
+    "id": "prod-019",
+    "name": "Wireless Gaming Mouse",
+    "description": "High-precision wireless gaming mouse with 25,600 DPI sensor.",
+    "price": 2990.0,
+    "stock": 55,
+    "category": "Electronics",
+    "created_at": "2024-05-15T14:00:00",
+    "updated_at": "2024-11-30T09:00:00"
+  },
+  {
+    "id": "prod-020",
+    "name": "4K Webcam",
+    "description": "Professional 4K webcam with auto-focus and noise-canceling microphone.",
+    "price": 4490.0,
+    "stock": 25,
+    "category": "Electronics",
+    "created_at": "2024-05-20T08:30:00",
+    "updated_at": null
+  },
+  {
+    "id": "719dc264-f160-47ce-8850-a7499063fe44",
+    "name": "Test Product from Postman",
+    "description": "This is a test product created via Postman API",
+    "price": 1999.99,
+    "stock": 50,
+    "category": "Test",
+    "created_at": "2025-12-24T11:46:18.379229",
+    "updated_at": null
+  }
+]

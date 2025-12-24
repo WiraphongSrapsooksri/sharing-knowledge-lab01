@@ -1,0 +1,216 @@
+[
+  {
+    "id": "order-001",
+    "user_id": "660e8400-e29b-41d4-a716-446655440001",
+    "items": [
+      {
+        "product_id": "prod-002",
+        "product_name": "iPhone 15 Pro Max 256GB",
+        "quantity": 1,
+        "price": 48900.0
+      },
+      {
+        "product_id": "prod-004",
+        "product_name": "AirPods Pro (2nd generation)",
+        "quantity": 1,
+        "price": 8990.0
+      }
+    ],
+    "status": "processing",
+    "total_amount": 57890.0,
+    "created_at": "2024-12-01T10:30:00",
+    "updated_at": "2025-12-24T11:39:41.880698"
+  },
+  {
+    "id": "order-002",
+    "user_id": "770e8400-e29b-41d4-a716-446655440002",
+    "items": [
+      {
+        "product_id": "prod-001",
+        "product_name": "MacBook Pro 16\" M3 Max",
+        "quantity": 1,
+        "price": 119900.0
+      },
+      {
+        "product_id": "prod-013",
+        "product_name": "Ergonomic Office Chair",
+        "quantity": 1,
+        "price": 12900.0
+      },
+      {
+        "product_id": "prod-014",
+        "product_name": "Standing Desk Electric",
+        "quantity": 1,
+        "price": 18900.0
+      }
+    ],
+    "status": "completed",
+    "total_amount": 151700.0,
+    "created_at": "2024-12-05T14:15:00",
+    "updated_at": "2024-12-08T16:30:00"
+  },
+  {
+    "id": "order-003",
+    "user_id": "660e8400-e29b-41d4-a716-446655440001",
+    "items": [
+      {
+        "product_id": "prod-009",
+        "product_name": "Nike Air Max 270",
+        "quantity": 2,
+        "price": 5490.0
+      }
+    ],
+    "status": "completed",
+    "total_amount": 10980.0,
+    "created_at": "2024-12-10T09:45:00",
+    "updated_at": "2024-12-12T11:00:00"
+  },
+  {
+    "id": "order-004",
+    "user_id": "990e8400-e29b-41d4-a716-446655440004",
+    "items": [
+      {
+        "product_id": "prod-007",
+        "product_name": "Samsung Galaxy S24 Ultra",
+        "quantity": 1,
+        "price": 44900.0
+      },
+      {
+        "product_id": "prod-006",
+        "product_name": "Sony WH-1000XM5",
+        "quantity": 1,
+        "price": 13990.0
+      }
+    ],
+    "status": "processing",
+    "total_amount": 58890.0,
+    "created_at": "2024-12-15T16:20:00",
+    "updated_at": "2024-12-16T10:00:00"
+  },
+  {
+    "id": "order-005",
+    "user_id": "770e8400-e29b-41d4-a716-446655440002",
+    "items": [
+      {
+        "product_id": "prod-011",
+        "product_name": "Levi's 501 Original Jeans",
+        "quantity": 3,
+        "price": 2990.0
+      },
+      {
+        "product_id": "prod-012",
+        "product_name": "The North Face Jacket",
+        "quantity": 1,
+        "price": 8900.0
+      }
+    ],
+    "status": "completed",
+    "total_amount": 17870.0,
+    "created_at": "2024-12-18T11:30:00",
+    "updated_at": "2024-12-20T15:45:00"
+  },
+  {
+    "id": "order-006",
+    "user_id": "660e8400-e29b-41d4-a716-446655440001",
+    "items": [
+      {
+        "product_id": "prod-018",
+        "product_name": "Mechanical Keyboard RGB",
+        "quantity": 1,
+        "price": 3990.0
+      },
+      {
+        "product_id": "prod-019",
+        "product_name": "Wireless Gaming Mouse",
+        "quantity": 1,
+        "price": 2990.0
+      },
+      {
+        "product_id": "prod-020",
+        "product_name": "4K Webcam",
+        "quantity": 1,
+        "price": 4490.0
+      }
+    ],
+    "status": "pending",
+    "total_amount": 11470.0,
+    "created_at": "2024-12-22T08:15:00",
+    "updated_at": null
+  },
+  {
+    "id": "order-007",
+    "user_id": "990e8400-e29b-41d4-a716-446655440004",
+    "items": [
+      {
+        "product_id": "prod-003",
+        "product_name": "iPad Pro 12.9\" M2",
+        "quantity": 1,
+        "price": 42900.0
+      },
+      {
+        "product_id": "prod-005",
+        "product_name": "Apple Watch Series 9 GPS",
+        "quantity": 1,
+        "price": 13900.0
+      }
+    ],
+    "status": "pending",
+    "total_amount": 56800.0,
+    "created_at": "2024-12-23T14:30:00",
+    "updated_at": null
+  },
+  {
+    "id": "order-008",
+    "user_id": "770e8400-e29b-41d4-a716-446655440002",
+    "items": [
+      {
+        "product_id": "prod-016",
+        "product_name": "Gaming Chair RGB",
+        "quantity": 1,
+        "price": 15900.0
+      }
+    ],
+    "status": "cancelled",
+    "total_amount": 15900.0,
+    "created_at": "2024-12-20T10:00:00",
+    "updated_at": "2024-12-21T09:30:00"
+  },
+  {
+    "id": "order-009",
+    "user_id": "660e8400-e29b-41d4-a716-446655440001",
+    "items": [
+      {
+        "product_id": "prod-010",
+        "product_name": "Adidas Ultraboost 23",
+        "quantity": 1,
+        "price": 6990.0
+      }
+    ],
+    "status": "completed",
+    "total_amount": 6990.0,
+    "created_at": "2024-12-19T15:45:00",
+    "updated_at": "2024-12-21T10:00:00"
+  },
+  {
+    "id": "order-010",
+    "user_id": "990e8400-e29b-41d4-a716-446655440004",
+    "items": [
+      {
+        "product_id": "prod-017",
+        "product_name": "Kindle Paperwhite",
+        "quantity": 2,
+        "price": 4990.0
+      },
+      {
+        "product_id": "prod-015",
+        "product_name": "Bookshelf Modern Design",
+        "quantity": 1,
+        "price": 4990.0
+      }
+    ],
+    "status": "processing",
+    "total_amount": 14970.0,
+    "created_at": "2024-12-24T07:20:00",
+    "updated_at": "2024-12-24T09:00:00"
+  }
+]
